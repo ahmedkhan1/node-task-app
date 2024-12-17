@@ -1,0 +1,15 @@
+node-app/
+  |-src/
+    |-controllers/
+    |-middlewares/
+    |-models/
+    |-routes/
+    |-services/
+    |-validations/
+    |-utils
+  |-.env
+  |-index.js
+  |-logger.js
+  |-package.json
+  |-README.md
+  
